@@ -8,7 +8,7 @@
 
 | Member | Full Name | GitHub Username | Assigned Task |
 
-|--------|-----------|-----------------|---------------|
+|---|---|---|---|
 
 | A | Princess Mae V. Linobo | Princess655 | Homepage |
 
@@ -16,7 +16,7 @@
 
 | C | IMEE GRACE GASCON | miyamama268 | Setup Instructions |
 
-| D | ILYKCA BIM CAYANAN | Ilykca Bim | Collaboration Workflow |
+| D | ILYKCA BIM CAYANAN | ilykcabim | Collaboration Workflow |
 
 | E | JAN OWENZ LABAROSA | wenji123708 | Testing Report |
 
@@ -26,11 +26,11 @@
 
 
 
-This project is created by five Information
+This project is created by five Information Technology
 
-Technology students for the CIT 240 activity
+students for the CIT 240 activity on GitHub and remote
 
-on GitHub and remote collaboration.
+collaboration.
 
 
 
@@ -38,11 +38,9 @@ on GitHub and remote collaboration.
 
 
 
-Our objective is to practice version control,
+Our objective is to practice version control, branch
 
-branch creation, commits, pushing changes,
+creation, commits, pushing changes, pull requests,
 
-pull requests, code reviews, and merging
-
-using Git and GitHub.
+code reviews, and merging using Git and GitHub.
 
